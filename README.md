@@ -27,4 +27,12 @@ Below is a summary of the key components included:
 -Techniques for optimizing SQL queries to improve performance.
 -Examples of indexing and query optimization.
 
+**Key visualizations included in this project are:**
+
+Pie Chart: Distribution of streams across different platforms.
+Tree Map: Hierarchical representation of streaming data.
+Bar Chart: Total streams per platform.
+Waffle Chart: Top 15 songs combined from all platforms.
+Bubble Chart: Top 10 albums with the most songs, showing total Spotify streams and number of songs per album.
+
 Feel free to explore the repository and check out the individual projects for detailed examples of my SQL work.
